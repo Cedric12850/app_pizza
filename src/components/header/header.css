@@ -1,6 +1,13 @@
+.header {
+    padding: 0px;
+}
 
 .navTop {
     background-color: rgb(114, 113, 113);
     color: white;
     font-size: 12px;
+}
+
+#offer {
+    color: yellow;
 }

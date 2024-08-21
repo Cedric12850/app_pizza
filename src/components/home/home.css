@@ -4,6 +4,32 @@
     justify-content: space-around;
 }
 
+#logPanier {
+    color: rgb(155, 155, 155);
+}
+
 .cards {
     margin: 10px;
+}
+
+#cardText{
+    padding-bottom: 1rem;
+    border-bottom: 2px solid rgb(194, 194, 194);
+}
+
+.description{
+    margin: 0px;
+}
+p {
+   margin-bottom: 0rem;
+   padding-top: 5px;
+}
+
+#select {
+    display: flex;
+    justify-content: space-between;
+}
+
+#price {
+    margin-top: 8px;
 }
