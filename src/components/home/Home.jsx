@@ -13,7 +13,6 @@ import Carte from './Carte';
 //import pizzas from '../../assets/pizza-data.js';
 
 
-
 const Home = () => {
 
   return (
